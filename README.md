@@ -1,4 +1,4 @@
-# 3rdYearProject
+
 # PNEUMONIA-and-COVID-19-Detection-Flask-and-Golang-Application-based-on-Chest-X-rays
 We trained a convolutional neural network model from scratch to classify and detect the presence of pneumonia and covid19 from a collection of chest X-ray image samples.
 
