@@ -14,7 +14,7 @@ Chest X-ray images (5000 images) were also obtained from: https://www.kaggle.com
 Model has been trained with loss, accuracy of 1.5673713684082031, 0.7483552694320679
 
 # Test Application
-Head over to: http://35.222.141.44:8080/
+Head over to: http://radiologyassistant.tk/
 
 # Source Code for project
 
