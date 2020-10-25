@@ -15,7 +15,3 @@ Model has been trained with loss, accuracy of 1.5673713684082031, 0.748355269432
 
 # Test Application
 Head over to: http://radiologyassistant.tk/
-
-# Source Code for project
-
-https://github.com/paulwababu/pneumonia_detection_web_app.git
