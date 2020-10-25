@@ -3,9 +3,7 @@
 We trained a convolutional neural network model from scratch to classify and detect the presence of pneumonia and covid19 from a collection of chest X-ray image samples.
 
 # Dataset
-The dataset for the project was gathered from two sources:
-
-Chest X-ray images (1000 images) were obtained from: https://github.com/ieee8023/covid-chestxray-dataset
+The dataset for the project was gathered from:
 
 Chest X-ray images (5000 images) were also obtained from: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
