@@ -5,7 +5,7 @@ We trained a convolutional neural network model from scratch to classify and det
 # Dataset
 The dataset for the project was gathered from:
 
-Chest X-ray images (5000 images) were also obtained from: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+Chest X-ray images (5000 images) were obtained from: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 # Classification Reports for Chest X-rays:
 
