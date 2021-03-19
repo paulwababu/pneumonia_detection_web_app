@@ -11,7 +11,7 @@ Click==7.0
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
-Django==3.0.3
+Django==3.1.6
 entrypoints==0.3
 fastapi==0.49.0
 Flask==1.1.2
