@@ -85,7 +85,7 @@ Send2Trash==1.5.0
 six==1.14.0
 sklearn==0.0
 sqlparse==0.3.0
-starlette==0.12.9
+starlette==0.25.0
 tensorboard==2.0.0
 tensorflow==2.5.0
 tensorflow-estimator==2.0.0
